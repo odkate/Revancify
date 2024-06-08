@@ -43,7 +43,29 @@
             }
         }
     },
-    "inotia00": 
+    "odkate": 
+    {
+        "projectName": "Revanced-Extended-old",
+        "sources": 
+        {
+            "cli":
+            {
+                "org": "inotia00",
+                "repo": "revanced-cli"
+            },
+            "patches":
+            {
+                "org": "odkate",
+                "repo": "inotia00-patches"
+            },
+            "integrations":
+            {
+                "org": "odkate",
+                "repo": "inotia00-integrations"
+            }
+        }
+    },
+"inotia00": 
     {
         "projectName": "Revanced-Extended",
         "sources": 
@@ -83,28 +105,6 @@
             "integrations":
             {
                 "org": "kitadai31",
-                "repo": "revanced-integrations"
-            }
-        }
-    },
-    "rufusin": 
-    {
-        "projectName": "RVX-rufusin",
-        "sources": 
-        {
-            "cli":
-            {
-                "org": "inotia00",
-                "repo": "revanced-cli"
-            },
-            "patches":
-            {
-                "org": "rufusin",
-                "repo": "revanced-patches"
-            },
-            "integrations":
-            {
-                "org": "rufusin",
                 "repo": "revanced-integrations"
             }
         }
